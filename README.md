@@ -1,4 +1,4 @@
-Credit Scoring Model
+# Credit Scoring Model
 
 ## Objective
 Classify whether a record is labelled creditworthy (1) or not creditworthy (0) using example financial attributes.
